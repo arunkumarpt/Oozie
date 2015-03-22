@@ -35,6 +35,10 @@ Action nodes
 
 every job has an attribute with it.
 
+Oozie support property file. Give all the properties in the property file.
+
+after running the job, we will get a job id.
+
 
 
 
