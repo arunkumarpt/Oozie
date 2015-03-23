@@ -102,6 +102,16 @@ Oozie supports multiple DBMS for it’s internal use including Derby, PostgreSql
 
 
 
+###Build Oozie
+The best way to install Oozie is to build it locally from an Oozie source release. Please follow the steps below to do the same.
+Download and unpack the Oozie source code release from Apache.
+```
+$cd <BUILD_BASE_PATH>
+$curl -O http://www.us.apache.org/dist/oozie/4.0.1/oozie-4.0.1.tar.gz
+$tar xvf oozie-4.0.1.tar.gz
+$cd oozie-4.0.1
+```
+
 
 
 
