@@ -113,6 +113,18 @@ $cd oozie-4.0.1
 ```
 
 
+##Error
+Detected JDK Version: 1.7.0-75 is not in the allowed range [1.6.0,1.6.1000]
+##Solution
+add sudo with command
+
+##Error
+
+if the build fails
+
+##Solution
+sudo bin/mkdistro.sh -Dmaven.test.skip=true
+
 
 
 exercise
