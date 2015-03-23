@@ -39,6 +39,21 @@ Oozie support property file. Give all the properties in the property file.
 
 after running the job, we will get a job id.
 
+3/22/2015
+
+exercise
+--------
+
+poll on a job ID
+use oozie and go through all actions
+
+all oozie actions
+
+coordinator based on time/data availability
+use java apis to kick off jobs
+
+
+create dynamic job.properties in java program 
 
 
 
